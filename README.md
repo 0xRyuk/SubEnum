@@ -25,6 +25,13 @@ Windows:
 
 By default output will be saved as **example-com.txt**
 
+## Screenshots
+![usage](screenshot/usage.png)
+
+![test](screenshot/test.png)
+
+![about](screenshot/about.png)
+
 Feel free to [open and issue](https://github.com/0xRyuk/SubEnum/issues) if you face bugs or errors in this tool.
 
 ## To do list
