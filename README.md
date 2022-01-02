@@ -36,6 +36,7 @@ Feel free to [open and issue](https://github.com/0xRyuk/SubEnum/issues) if you f
 
 ## To do list
 - [ ] Threading.
+- [ ] Logging.
 
 ## Twitter [0xRyuk](https://twitter.com/0xRyuk)
 
